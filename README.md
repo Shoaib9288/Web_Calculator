@@ -1,4 +1,4 @@
-# Web_Development_Projects
+# Web_Calculator_Using_HTML_CSS_JSS
 HTML calculator is used for performing basic mathematical operations like Addition, subtraction, multiplication, and division.
 
 ➤To design the basic calculator, we have used HTML, CSS, and JavaScript. 
