@@ -7,4 +7,4 @@ HTML calculator is used for performing basic mathematical operations like Additi
 
 ![logo](https://github.com/Shoaib9288/Web_Development_Projects/blob/main/Calculator%20Preview.JPG)
 
-➢➢LIVE DEMO: https://rb.gy/cqbuib
+➢➢LIVE DEMO: https://shoaib9288.github.io/Web_Calculator/
